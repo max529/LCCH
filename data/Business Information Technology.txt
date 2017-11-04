@@ -1,0 +1,137 @@
+Adam Mach,Business Information Technology,adam.mach@students.hevs.ch
+Axel Berclaz,Business Information Technology,axel.berclaz@students.hevs.ch
+Benjamin Décaillet,Business Information Technology,benjamin.decaillet@students.hevs.ch
+Benjamin Pocklington,Business Information Technology,benjamin.pocklington@students.hevs.ch
+Beyza Salyador,Business Information Technology,beyza.salyador@students.hevs.ch
+Bryan Pierre Spahr,Business Information Technology,bryan.spahr@students.hevs.ch
+Caroline Moreira,Business Information Technology,caroline.moreira@students.hevs.ch
+Cécilia Marchesini,Business Information Technology,cecilia.marchesini@students.hevs.ch
+Christian Pereira,Business Information Technology,christian.pereira@students.hevs.ch
+Christoph Blättler,Business Information Technology,christoph.blattler@students.hevs.ch
+Colin Chappot,Business Information Technology,colin.chappot@students.hevs.ch
+Damian Wasmer,Business Information Technology,damian.wasmer@students.hevs.ch
+Daniel Pott,Business Information Technology,daniel.pott@students.hevs.ch
+Daniel Roque,Business Information Technology,daniel.roque@students.hevs.ch
+Daniela Silva Lourenço,Business Information Technology,daniela.silvalourenco@students.hevs.ch
+Danilo Marty,Business Information Technology,danilo.marty@students.hevs.ch
+Daria Brazhnyk,Business Information Technology,daria.brazhnyk@students.hevs.ch
+David Cano Marquez,Business Information Technology,david.canomarquez@students.hevs.ch
+David Favre,Business Information Technology,david.favre@students.hevs.ch
+Denis Woeffray,Business Information Technology,denis.woeffray@students.hevs.ch
+Diana Bonvin,Business Information Technology,diana.bonvin@students.hevs.ch
+Diego Zuber,Business Information Technology,diego.zuber@students.hevs.ch
+Diogo Assis Pires,Business Information Technology,diogo.assispires@students.hevs.ch
+Dylan Thompson,Business Information Technology,dylan.thompson@students.hevs.ch
+Elizabeth Bitschnau,Business Information Technology,elizabeth.bitschnau@students.hevs.ch
+Emile Brohy,Business Information Technology,emile.brohy@students.hevs.ch
+Fabien Terrani,Business Information Technology,fabien.terrani@students.hevs.ch
+Filipe José Lourenço Rodrigues,Business Information Technology,filipe.lourencorodrigues@students.hevs.ch
+Flavien Bonvin,Business Information Technology,flavien.bonvin@students.hevs.ch
+Florent Praz,Business Information Technology,florent.praz@students.hevs.ch
+Florian Walter,Business Information Technology,florian.walter@students.hevs.ch
+Gabriel Riedo,Business Information Technology,gabriel.riedo@students.hevs.ch
+Gaëtan Huser,Business Information Technology,gaetan.huser@students.hevs.ch
+Giuseppe Cipri,Business Information Technology,giuseppe.cipri@students.hevs.ch
+Giuseppe D'Orsa,Business Information Technology,giuseppe.dorsa@students.hevs.ch
+Guillaume Vouilloz,Business Information Technology,guillaume.vouilloz@students.hevs.ch
+Hadrien Oppikofer,Business Information Technology,hadrien.oppikofer@students.hevs.ch
+Helder Poças,Business Information Technology,helder.pocas@students.hevs.ch
+Helena Pereira,Business Information Technology,helena.pereira@students.hevs.ch
+Hugo Rebelo,Business Information Technology,hugo.rebelo@students.hevs.ch
+Ibrahim Beqiri,Business Information Technology,ibrahim.beqiri@students.hevs.ch
+Ismaël Fernandez,Business Information Technology,ismael.fernandez@students.hevs.ch
+Jacques Herren,Business Information Technology,jacques.herren@students.hevs.ch
+Jannis Kalbermatten,Business Information Technology,jannis.kalbermatten@students.hevs.ch
+Jaufray Sornette,Business Information Technology,jaufray.sornette@students.hevs.ch
+Jean-Marie Alder,Business Information Technology,jean-marie.alder@students.hevs.ch
+Jean-Samuel Stalder,Business Information Technology,jean-samuel.stalder@students.hevs.ch
+Jeff Zufferey,Business Information Technology,jeff.zufferey@students.hevs.ch
+Jennifer Pertek,Business Information Technology,jennifer.pertek@students.hevs.ch
+João Carlos Ferreira Da Silva,Business Information Technology,joao.ferreiradasilva@students.hevs.ch
+Joey Zuber,Business Information Technology,joey.zuber@students.hevs.ch
+Jonas Pilloud,Business Information Technology,jonas.pilloud@students.hevs.ch
+Jonathan Joaquim,Business Information Technology,jonathan.joaquim@students.hevs.ch
+Jonathan Schnyder,Business Information Technology,jonathan.schnyder@students.hevs.ch
+Jordi Chafer,Business Information Technology,jordi.chafer@students.hevs.ch
+Julie Préperier,Business Information Technology,julie.preperier@students.hevs.ch
+Julien Reichenbach,Business Information Technology,julien.reichenbach@students.hevs.ch
+Julien Resin,Business Information Technology,julien.resin@students.hevs.ch
+Kazim Koç,Business Information Technology,kazim.koc@students.hevs.ch
+Ken Jäggi,Business Information Technology,ken.jaggi@students.hevs.ch
+Kevin Berret,Business Information Technology,kevin.berret@students.hevs.ch
+Kevin Carneiro,Business Information Technology,kevin.carneiro@students.hevs.ch
+Kevin Schmidt,Business Information Technology,kevin.schmidt@students.hevs.ch
+Killian Duay,Business Information Technology,killian.duay@students.hevs.ch
+Laurène Barman,Business Information Technology,laurene.barman@students.hevs.ch
+Lavdrim Ademi,Business Information Technology,lavdrim.ademi@students.hevs.ch
+Lionel Engel,Business Information Technology,lionel.engel@students.hevs.ch
+Loan Buffet,Business Information Technology,loan.buffet@students.hevs.ch
+Loïc Berthod,Business Information Technology,loic.berthod@students.hevs.ch
+Loïc Python,Business Information Technology,loic.python@students.hevs.ch
+Lorenzo Lamberti,Business Information Technology,lorenzo.lamberti@students.hevs.ch
+Loris Clivaz,Business Information Technology,loris.clivaz@students.hevs.ch
+Luca Centofanti,Business Information Technology,luca.centofanti@students.hevs.ch
+Lucien Zuber,Business Information Technology,lucien.zuber@students.hevs.ch
+Marc Nicolier,Business Information Technology,marc.nicolier@students.hevs.ch
+Marco Lorenz,Business Information Technology,marco.lorenz@students.hevs.ch
+Marco Nascimento Almeida,Business Information Technology,marco.nascimentoalmeida@students.hevs.ch
+Mathias Bornand,Business Information Technology,mathias.bornand@students.hevs.ch
+Mathis Fux,Business Information Technology,mathis.fux@students.hevs.ch
+Matthias Zuber,Business Information Technology,matthias.zuber@students.hevs.ch
+Maxime Bétrisey,Business Information Technology,maxime.betrisey@students.hevs.ch
+Maximilien Borgeat,Business Information Technology,maximilien.borgeat@students.hevs.ch
+Mégane Thomas,Business Information Technology,megane.thomas@students.hevs.ch
+Mhamed Ben Haha,Business Information Technology,mhamed.benhaha@students.hevs.ch
+Micaela Da Rocha Ribeiro,Business Information Technology,micaela.darocharibeiro@students.hevs.ch
+Mickaël Coluccia,Business Information Technology,mickael.coluccia@students.hevs.ch
+Mike Wigger,Business Information Technology,mike.wigger@students.hevs.ch
+Mikko Lerto,Business Information Technology,mikko.lerto@students.hevs.ch
+Montaine Burger,Business Information Technology,montaine.burger@students.hevs.ch
+Nadine Waelti,Business Information Technology,nadine.waelti@students.hevs.ch
+Nathan Bovier,Business Information Technology,nathan.bovier@students.hevs.ch
+Nelson David Ribeiro Teixeira,Business Information Technology,nelson.ribeiroteixeira@students.hevs.ch
+Nestor Taverney,Business Information Technology,nestor.taverney@students.hevs.ch
+Nicolas Meier,Business Information Technology,nicolas.meier@students.hevs.ch
+Nicolas Piguet,Business Information Technology,nicolas.piguet@students.hevs.ch
+Nicolas Solioz,Business Information Technology,nicolas.solioz@students.hevs.ch
+Olivier Arbellay,Business Information Technology,olivier.arbellay@students.hevs.ch
+Olivier Gottet,Business Information Technology,olivier.gottet@students.hevs.ch
+Oscar Julian Perdomo Charry,Business Information Technology,oscar.perdomocharry@students.hevs.ch
+Patrick Clivaz,Business Information Technology,patrick.clivaz@students.hevs.ch
+Patrick Garbely,Business Information Technology,patrick.garbely@students.hevs.ch
+Pierre Anken,Business Information Technology,pierre.anken@students.hevs.ch
+Pierre Balet,Business Information Technology,pierre.balet@students.hevs.ch
+Quentin Nater,Business Information Technology,quentin.nater@students.hevs.ch
+Quentin Remion,Business Information Technology,quentin.remion@students.hevs.ch
+Quentin Singer,Business Information Technology,quentin.singer@students.hevs.ch
+Raphaël Balet,Business Information Technology,raphael.balet@students.hevs.ch
+Raphael Buffet,Business Information Technology,raphael.buffet@students.hevs.ch
+Rita Moreira,Business Information Technology,rita.moreira@students.hevs.ch
+Robert Lee Seligmann,Business Information Technology,robert.seligmann@students.hevs.ch
+Romain Castagna,Business Information Technology,romain.castagna@students.hevs.ch
+Samuel Pinto Da Silva,Business Information Technology,samuel.pintodasilva@students.hevs.ch
+Sascha Burgener,Business Information Technology,sascha.burgener@students.hevs.ch
+Sascha Zurbriggen,Business Information Technology,sascha.zurbriggen@students.hevs.ch
+Solange Steiner,Business Information Technology,solange.steiner@students.hevs.ch
+Stéphanie Domingues Pinto,Business Information Technology,stephanie.pinto1@students.hevs.ch
+Steve Richard,Business Information Technology,steve.richard@students.hevs.ch
+Steven Roh,Business Information Technology,steven.roh@students.hevs.ch
+Sylvain Roh,Business Information Technology,sylvain.roh@students.hevs.ch
+Taylan Caloz-Üregen,Business Information Technology,taylan.uregen@students.hevs.ch
+Théodore Pillet,Business Information Technology,theodore.pillet@students.hevs.ch
+Thomas Roulin,Business Information Technology,thomas.roulin@students.hevs.ch
+Tiago De Almeida,Business Information Technology,tiago.dealmeida@students.hevs.ch
+Valentin Bornatici,Business Information Technology,valentin.bornatici@students.hevs.ch
+Valentin Jaquet,Business Information Technology,valentin.jaquet@students.hevs.ch
+Valentine Cotter,Business Information Technology,valentine.cotter@students.hevs.ch
+Vincent Belet,Business Information Technology,vincent.belet@students.hevs.ch
+Vincent Caibis,Business Information Technology,vincent.caibis@students.hevs.ch
+Vivian Bridy,Business Information Technology,vivian.bridy@students.hevs.ch
+Vlado Mitrovic,Business Information Technology,vlado.mitrovic@students.hevs.ch
+Xavier Kalbermatten,Business Information Technology,xavier.kalbermatten@students.hevs.ch
+Xavier Nendaz,Business Information Technology,xavier.nendaz@students.hevs.ch
+Yann Clavien,Business Information Technology,yann.clavien@students.hevs.ch
+Yann Jollien,Business Information Technology,yann.jollien@students.hevs.ch
+Yannick Mermod,Business Information Technology,yannick.mermod@students.hevs.ch
+Yevheniy Zaychenko,Business Information Technology,yevheniy.zaychenko@students.hevs.ch
+Yvan Pannatier,Business Information Technology,yvan.pannatier@students.hevs.ch
