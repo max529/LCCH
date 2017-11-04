@@ -1,0 +1,15 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/css/style.css')
+    script(src="/js/materialize.min.js")
+    if dev
+      script(src="/socket.io/socket.io.js")
+      script(src="/reload.js")
+      
+  body
+    nav
+      .nav-wrapper
+        a.brand-logo Logo   
+    block content
