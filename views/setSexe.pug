@@ -1,0 +1,14 @@
+extends layout
+
+block header
+    script(src="js/setSexe.js")
+
+block content
+    ul.collection
+        each p in people
+            li.collection-item
+                div
+                    span= p.nomPrenom
+                    span.right
+                        a(onclick="setSexe(this,"+p.id+",0)").btn homme
+                        a(onclick="setSexe(this,"+p.id+",1)").btn.pink femme

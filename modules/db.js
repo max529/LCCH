@@ -11,11 +11,11 @@ const sequelize = new Sequelize('lcc', 'lcc', 'manipulationDeMasse', {
 
 const User = sequelize.define('user', {
     id: { type: Sequelize.INTEGER, autoIncrement: true, primaryKey: true },
-    nom: Sequelize.STRING,
-    prenom: Sequelize.STRING,
+    nomPrenom: Sequelize.STRING,
+    sexe: { type: Sequelize.INTEGER, allowNull: true },
     point: Sequelize.INTEGER,
-    username: Sequelize.STRING,
-    password: Sequelize.TEXT,
+    username: { type: Sequelize.STRING, allowNull: true },
+    password: { type: Sequelize.TEXT, allowNull: true },
     token: Sequelize.TEXT
 });
 
@@ -32,8 +32,10 @@ User.hasMany(Vote, { foreignKey: 'par', as: 'par' })
 User.hasMany(Vote, { foreignKey: 'pour', as: 'pour' })
 
 
-sequelize.sync({ force: true }).then(() => {
-    sequelize.close()
-})
+module.exports = {
+    User,
+    Vote,
+    sequelize
+}
 
 

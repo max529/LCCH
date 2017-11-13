@@ -1,1 +1,21 @@
 @import 'materialize';
+
+
+.container{
+    position: relative;
+}
+.nav-wrapper{
+    text-align: center   
+}
+.card{
+    width:600px;
+    position: absolute;
+    left:calc(50% - 300px);
+    top:30px;
+    .card-action{
+        text-align: center;
+        a{
+            margin : 0 10px;
+        }
+    }
+}

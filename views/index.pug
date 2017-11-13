@@ -1,5 +1,19 @@
 extends layout
 
+block header
+  script(src="js/index.js")
+
 block content
-  h1= title
-  p Welcome to #{title}
+  .card
+    .card-image
+      img(src="/media/user_m.png")
+      span.card-title
+      a(href="https://www.facebook.com/search/top/?q=Maxime Bétrisey",target="_blank").btn-floating.halfway-fab.waves-effect.waves-light.red
+        i.material-icons remove_red_eye
+    .card-content
+      p Paysage de montagne
+    .card-action
+        a.waves-effect.waves-light.btn -2
+        a.btn.waves-effect.waves-light -1
+        a.btn.waves-effect.waves-light(href="#") +1
+        a.btn.waves-effect.waves-light(href="#") +2
