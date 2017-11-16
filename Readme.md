@@ -1,4 +1,4 @@
-Les chates en chaleur de la hes (LCCH)
+Les chattes en chaleur de la hes (LCCH)
 ===================
 
 Une experience sociale sur la manipulation de l'image au sein de la hes
